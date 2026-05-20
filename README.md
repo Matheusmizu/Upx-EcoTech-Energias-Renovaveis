@@ -2,3 +2,11 @@
 ## Descrição do projeto
 O EcoTech é um sistema inteligente desenvolvido para monitoramento da geração de energia solar e reaproveitamento de água da chuva, utilizando automação com Arduino e dashboard web para visualização dos dados em tempo real.
 O sistema realiza o monitoramento dos níveis dos reservatórios, acionamento automático da bomba d’água, acompanhamento do consumo energético e exibição de dados ambientais.
+
+## Funcionalidades implementadas
+- Monitoramento de geração solar
+- Monitoramento do consumo energético
+- Controle automático da bomba
+- Monitoramento dos reservatórios
+- Simulação de captação de água da chuva
+- Dashboard com atualização automática dos dados
