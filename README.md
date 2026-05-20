@@ -10,3 +10,13 @@ O sistema realiza o monitoramento dos níveis dos reservatórios, acionamento au
 - Monitoramento dos reservatórios
 - Simulação de captação de água da chuva
 - Dashboard com atualização automática dos dados
+
+## Tecnologias utilizadas
+- Arduino UNO
+- Sensores de nível de água
+- Tinkercad 
+- React
+- TypeScript
+- CSS
+- Vite
+- GitHub
