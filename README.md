@@ -20,3 +20,29 @@ O sistema realiza o monitoramento dos níveis dos reservatórios, acionamento au
 - CSS
 - Vite
 - GitHub
+- 
+## Como executar o projeto localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/Matheusmizu/Upx-EcoTech-Energias-Renovaveis.git
+```
+
+2. Acesse a pasta:
+
+```bash
+cd nome-do-projeto
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Execute o projeto:
+
+```bash
+npm run dev
+```
